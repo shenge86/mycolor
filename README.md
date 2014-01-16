@@ -5,4 +5,4 @@ This was just a simple test to see how color blind people are. It's a little sur
 Written in PHP with mySQL database.
 
 Test it out here on my site:
-<a href="http://mendedreality.com/mycolor.php">My Color Survey</a>
+<a href="http://mendedreality.com/mycolor.php" target="_blank">My Color Survey</a>
